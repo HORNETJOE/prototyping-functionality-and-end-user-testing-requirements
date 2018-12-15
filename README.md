@@ -9,3 +9,19 @@ User testing is when a user tests the product before it is finished to find any 
 Prototyping can be achieved through multiple different tools that are widely available to any developer. One of these tools include writing the prototype down on paper. This can be a rough sketch of the product of one of it features and can include high level detail or just points of how it will work, what will come after and a list of issues or problems with the idea. Another tool that can be used to prototype would be to have the code run in a separate window to see the outcome of the code. This will allow the developer to write code and see the outcome of the code on another window to see any errors that occur or to see what the code will display to the user. Another tool that can help during prototyping would be 3D software such as Paint3D. This can allow the developer to design a 3D environment if their product takes place in a 3D world. This will allow them to sketch out their idea more similar to how the final product will look rather than a 2D image.
 
 ## Advantages and Disadvantages of user testing
+
+## The diffrent end user categorisations , classifications and behaviour modelling techniques
+
+## prototyping methodology
+
+## End user classification and behaviour modelling
+
+## prototyping methodology plan
+
+## Tools to develop prototypes
+
+## end user experiments
+
+## The appropriate set of tools to develop the plan
+
+## using end user feedback to build a new interation of the prototype
