@@ -34,19 +34,24 @@ there are many different tools that can be used to develop multiple prototypes. 
 #### Unity
 Unity is one the top most popular development kits available and contains many functions that allows the creator to prototype their creation. One of these function is the ability to test the application at any point in this development with the ability of the play button which allows the engine to run the application with the assists and functions it has received allowing the creator to test certain parts of the application without having to finish the whole project. This also allows the creator to not worry about other parts of the application so that specific parts of the application can be focused on to improve them and to make sure they work.
 
-## end user experiments
+## end user experiments and analysis
 The end user feedback that I recived from the tasting of my applicaiton called "Traceball Game" was the the table lists below. I carried out this test by allowing the user to play the game and having them submit feedback as a comment on the game. The comment were as follows:
-
 
 | User  | Feedback |
 | ------------- | ------------- |
 | Mark Biswell  | The game was over too quick and I had no way of knowing what was happening.  |
-| Luke Shead  | The lives counter on the side did not change when i got hit it confused me.  |
+| Luke Shead  | The lives counter on the side did not change when I got hit it confused me.  |
 | Sam Dearing  | The game was over too quick  |
-| Matthew Sides  | I had no time to react after i got hit the first time meaning i lost 2 of the possible lives in the game too quickly  |
+| Matthew Sides  | I had no time to react after I got hit the first time meaning I lost 2 of the possible lives in the game too quickly  |
 
+following these comments some ajustsment were made to the game to improve it. Another test was conducted to see the results to see if the improvments had any effect on the comments the users would submit. This will provide fedback as to if the game has imporved since the last test or if more work has to be done.
 
-## Analyseing feedback
+| User  | Feedback |
+| ------------- | ------------- |
+| Mark Biswell  | I now know what I’m doing because of the text box appearing when I get hit. However the lives don't change.  |
+| Luke Shead  | The lives still does not change when I get hit.  |
+| Sam Dearing  | The game lasted a bit longer because I had time to prepare when the text box appered but the game is still short. |
+| Matthew Sides  | The text box allows me to react to the red square a lot better than before and now the game lasts a longer.  |
 
 ## The appropriate set of tools to develop the plan
 
