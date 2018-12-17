@@ -37,12 +37,14 @@ Unity is one the top most popular development kits available and contains many f
 ## end user experiments
 The end user feedback that I recived from the tasting of my applicaiton called "Traceball Game" was the the table lists below. I carried out this test by allowing the user to play the game and having them submit feedback as a comment on the game. The comment were as follows:
 
+
 | User  | Feedback |
 | ------------- | ------------- |
-| Mark Biswell  | The game was over too quick and I had no way of knowing what was heppening.  |
-| Luke Shead  | The lives counter on the side did not change when i got hit it confuced me.  |
+| Mark Biswell  | The game was over too quick and I had no way of knowing what was happening.  |
+| Luke Shead  | The lives counter on the side did not change when i got hit it confused me.  |
 | Sam Dearing  | The game was over too quick  |
-| Matthew Sides  | I had no time to react after i got hit the first time meaning i lost 2 of the possable lives in the game too quickly  |
+| Matthew Sides  | I had no time to react after i got hit the first time meaning i lost 2 of the possible lives in the game too quickly  |
+
 
 ## Analyseing feedback
 
