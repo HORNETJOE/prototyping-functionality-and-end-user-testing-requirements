@@ -35,6 +35,16 @@ there are many different tools that can be used to develop multiple prototypes. 
 Unity is one the top most popular development kits available and contains many functions that allows the creator to prototype their creation. One of these function is the ability to test the application at any point in this development with the ability of the play button which allows the engine to run the application with the assists and functions it has received allowing the creator to test certain parts of the application without having to finish the whole project. This also allows the creator to not worry about other parts of the application so that specific parts of the application can be focused on to improve them and to make sure they work.
 
 ## end user experiments
+The end user feedback that I recived from the tasting of my applicaiton called "Traceball Game" was the the table lists below. I carried out this test by allowing the user to play the game and having them submit feedback as a comment on the game. The comment were as follows:
+
+| User  | Feedback |
+| ------------- | ------------- |
+| Mark Biswell  | The game was over too quick and I had no way of knowing what was heppening.  |
+| Luke Shead  | The lives counter on the side did not change when i got hit it confuced me.  |
+| Sam Dearing  | The game was over too quick  |
+| Matthew Sides  | I had no time to react after i got hit the first time meaning i lost 2 of the possable lives in the game too quickly  |
+
+## Analyseing feedback
 
 ## The appropriate set of tools to develop the plan
 
