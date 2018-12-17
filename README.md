@@ -41,10 +41,12 @@ The end user feedback that I recived from the tasting of my applicaiton called "
 | ------------- | ------------- |
 | Mark Biswell  | The game was over too quick and I had no way of knowing what was happening.  |
 | Luke Shead  | The lives counter on the side did not change when I got hit it confused me.  |
-| Sam Dearing  | The game was over too quick  |
+| Sam Dearing  | The game was over too quick and it kept repeating the game over message after the game was over.|
 | Matthew Sides  | I had no time to react after I got hit the first time meaning I lost 2 of the possible lives in the game too quickly  |
 
 following these comments some ajustsment were made to the game to improve it. Another test was conducted to see the results to see if the improvments had any effect on the comments the users would submit. This will provide fedback as to if the game has imporved since the last test or if more work has to be done.
+
+the ajustments that were made to the game from the comment were that a text box was added to apper when the user was hit to inform them that they have been hit and to give them time to reset themselfs and start the game again. The other imporvment was the the bug that caused the "game Over" message to apper more then once was fixed so that it now only displays it once.
 
 | User  | Feedback |
 | ------------- | ------------- |
